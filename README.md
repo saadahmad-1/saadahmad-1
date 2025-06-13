@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm Saad, a passionate software developer with a knack for
 ## 🌟 My Tech Arsenal:
 - **Frontend:**  
   ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-  ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js) 
+  ![Svelte](https://img.shields.io/badge/Svelte-ff3e00?style=for-the-badge&logo=svelte&logoColor=white)
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 - **Backend:**  
