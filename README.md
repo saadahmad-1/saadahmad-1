@@ -37,7 +37,6 @@ I specialize in creating scalable, dynamic web and mobile applications that stan
 Whether you need a robust web application, a sleek mobile app, or a cutting-edge AI-driven solution, I bring a wealth of experience and a results-driven mindset to every project. Let’s work together to turn your ideas into reality!
 
 ## 📬 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-ahmad-05614a266/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadahmad.cs@gmail.com)
 
 Explore my repositories, and don’t hesitate to reach out if you’re interested in collaboration, or just want to chat about the latest in tech!
