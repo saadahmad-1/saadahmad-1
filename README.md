@@ -79,6 +79,3 @@ Need a web app, a mobile app, or an AI-driven product shipped by one accountable
 [![Portfolio](https://img.shields.io/badge/Portfolio-saadahmad.dev-24292e?style=for-the-badge)](https://saadahmad.dev)
 
 Explore my repositories, and don't hesitate to reach out if you're interested in collaboration — or just want to chat about the latest in tech!
-
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadahmad-1&show_icons=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saadahmad-1&layout=compact)
